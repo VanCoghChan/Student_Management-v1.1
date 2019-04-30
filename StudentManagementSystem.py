@@ -1,3 +1,4 @@
+#我真是个天才，一口气900行Python还能成功debug.....
 import easygui as g
 from tkinter import *
 import sys
